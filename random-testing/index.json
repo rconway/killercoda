@@ -1,0 +1,17 @@
+{
+  "title": "Random Testing",
+  "description": "Experiments with scenarios",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "text": "code-actions.md"
+      }
+    ]
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
